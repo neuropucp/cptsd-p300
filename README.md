@@ -1,1 +1,3 @@
-# cptsd-p300
+# Code for the paper "Disorders of Self-Organization symptom severity predicts auditory P300b amplitude in women"
+
+Description: This repository contains Python and R code used to analyze the data presented in the paper "Disorders of Self-Organization symptom severity predicts auditory P300b amplitude in women". Additional details, code and instructions for replication of the results are freely available upon request to the first author (Sareli Gibaja). Email: s.gibaja@pucp.edu.pe
